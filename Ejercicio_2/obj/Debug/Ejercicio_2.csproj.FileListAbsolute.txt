@@ -1,0 +1,6 @@
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\Ejercicio_2\Ejercicio_2\bin\Debug\Ejercicio_2.exe.config
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\Ejercicio_2\Ejercicio_2\bin\Debug\Ejercicio_2.exe
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\Ejercicio_2\Ejercicio_2\bin\Debug\Ejercicio_2.pdb
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.csprojResolveAssemblyReference.cache
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.exe
+C:\Users\Dell Latitude\Desktop\Progra I\Guía 3\Ejercicio_2\Ejercicio_2\obj\Debug\Ejercicio_2.pdb
